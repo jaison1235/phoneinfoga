@@ -20,15 +20,25 @@
   </a>
   <a href="https://hub.docker.com/r/sundowndev/phoneinfoga">
     <img src="https://img.shields.io/docker/pulls/sundowndev/phoneinfoga.svg" alt="Docker pulls" />
-  </a>
+  </a>4695049362
+
 </div>
 
 <h4 align="center">Information gathering framework for phone numbers</h4>
 
 <p align="center">
   <a href="https://sundowndev.github.io/phoneinfoga/">Documentation</a> •
-  <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml">API documentation</a> •
-  <a href="https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
+  <a href="[
+    
+    def2]4695049362">API documentation</a> •
+  <a href="https://medium.com/@# 
+ 
+ 
+ 
+ 
+ 
+ 
+  /phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
 </p>
 
 ## About
@@ -48,7 +58,7 @@ You can try out the web client or REST API on the <a href="https://demo.phoneinf
 - OSINT footprinting using external APIs, phone books & search engines
 - Check for reputation reports, social media, disposable numbers and more
 - Use the graphical user interface to run scans from the browser
-- Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
+- Programmatic usage with the [REST API][def] and [Go modules](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
 
 ## Anti-features
 
@@ -70,3 +80,7 @@ This tool is licensed under the GNU General Public License v3.0.
 <div align="center">
   <img src="https://github.com/sundowndev/static/raw/main/sponsors.svg?v=c68eba9" width="100%" heigh="auto" />
 </div>
+
+
+[def]: ttps://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yam
+[def2]: def
